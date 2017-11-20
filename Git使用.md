@@ -91,5 +91,6 @@ p.s.注意第一次pull的时候，要使用`git pull 远程库名字 master  --
 
 #### 小Tips
 
-* http://www.cnblogs.com/lulubai/p/6001334.html
+* 配置过程难点：http://www.cnblogs.com/lulubai/p/6001334.html
+* SSL报错"fatal: the remote end hung up unexpectedly （curl 56 OpenSSL SSL_read:SSL_ERROR_sysCALL": http://blog.csdn.net/m0_37052320/article/details/77799413
 
