@@ -75,6 +75,7 @@
 * 命令`git remote add 远程库名字 远程库https网址  `，关联远程库。
 
 * `git pull 远程库名字 master`后，`git push -u 远程库名字 master`。注：如果是第一次push，要使用格式-u，反之不用，直接`git push 远程库名字 master`
+p.s.注意第一次pull的时候，要使用`git pull 远程库名字 master  --allow-unrelated-histories`
 
 ### 11. 从远程库克隆到本地库
 
